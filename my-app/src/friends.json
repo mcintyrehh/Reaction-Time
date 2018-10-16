@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "HTML5",
+    "image": "/assets/images/html5.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "CSS3",
+    "image": "/assets/images/css3.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 3,
+    "name": "CSS3",
+    "image": "/assets/images/css3.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 4,
+    "name": "CSS3",
+    "image": "/assets/images/css3.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 5,
+    "name": "CSS3",
+    "image": "/assets/images/css3.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 6,
+    "name": "CSS3",
+    "image": "/assets/images/css3.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  }
+]
