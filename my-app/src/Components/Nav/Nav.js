@@ -1,7 +1,7 @@
 import React from "react";
 import "./Nav.css";
 
-const Nav = () => {
+const Nav = (props) => {
 
     return (
         <div className="nav container header">
@@ -16,7 +16,7 @@ const Nav = () => {
                             10 seconds!
                         </div>
                         <div className="col-md-5 mx-auto score">
-                            0 Correct <br/> 0 High Score
+                            {(props.correct)} Correct <br/> {props.highScore} High Score
                         </div>
                 </div>
             </div>

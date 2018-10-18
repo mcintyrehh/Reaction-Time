@@ -4,12 +4,9 @@ import "./Card.css";
 const Card = props => {
     return (
         <div className="card">
-            <div className="img-container">
+            <div className="img-container" onClick={() => props.shuffleDeck(props.id)}>
                 <img alt={props.name} src={props.image} />
             </div>
-            <span onClick={() => props.removeFriend(props.id)} className="remove">
-                𝘅
-            </span>
         </div>
     )
 }
