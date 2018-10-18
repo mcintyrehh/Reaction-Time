@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Angular",
+    "image": "/assets/images/angular.png"
+  },
+  {
+    "id": 2,
+    "name": "Bootstrap",
+    "image": "/assets/images/bootstrap.png"
+  },
+  {
+    "id": 3,
+    "name": "CSS3",
+    "image": "/assets/images/css3.png"
+  },
+  {
+    "id": 4,
+    "name": "Express",
+    "image": "/assets/images/expressJS.png"
+  },
+  {
+    "id": 5,
+    "name": "Firebase",
+    "image": "/assets/images/firebase.png"
+  },
+  {
+    "id": 6,
+    "name": "Handlebars",
+    "image": "/assets/images/handlebars-js.png"
+  },
+  {
+    "id": 7,
+    "name": "Heroku",
+    "image": "/assets/images/heroku.png"
+  },
+  {
+    "id": 8,
+    "name": "HTML5",
+    "image": "/assets/images/html5.png"
+  },
+  {
+    "id": 9,
+    "name": "JavaScript",
+    "image": "/assets/images/javascript.png"
+  },
+  {
+    "id": 10,
+    "name": "jQuery",
+    "image": "/assets/images/jquery.png"
+  },
+  {
+    "id": 11,
+    "name": "MongoDB",
+    "image": "/assets/images/mongodb.png"
+  },
+  {
+    "id": 12,
+    "name": "MySQL",
+    "image": "/assets/images/MySQL.png"
+  },
+  {
+    "id": 13,
+    "name": "Netlify",
+    "image": "/assets/images/netlify.png"
+  },
+  {
+    "id": 14,
+    "name": "NodeJS",
+    "image": "/assets/images/nodejs.png"
+  },
+  {
+    "id": 15,
+    "name": "React",
+    "image": "/assets/images/react.png"
+  },
+  {
+    "id": 16,
+    "name": "GitHub",
+    "image": "/assets/images/github.png"
+  }  
+]
