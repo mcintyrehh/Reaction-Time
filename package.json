@@ -1,0 +1,21 @@
+{
+  "name": "reaction-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcintyrehh/Reaction-Time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcintyrehh/Reaction-Time/issues"
+  },
+  "homepage": "https://github.com/mcintyrehh/Reaction-Time#readme"
+}
